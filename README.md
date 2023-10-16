@@ -9,7 +9,10 @@ cases, other assets are paid to a seller.
 * Sales project activities helps to reduce redundancies, streamline sales operations, make sales efforts more predictable, and offer sales leadership better visibility into 
 how their teams and broader organizations are operating and also help to the management of a particular organization get detailed insights about how well revenue making can be increased and how some cost can be cut off if need be.
 
-# Using sql to get some insights about the company workflow processes
+## Using sql to get some insights about the company workflow processes
+here are some images below;
+
+
 
 
 ![Screenshot (32)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a0f0eb30-197c-42ab-bd86-05e0f3b9d1c7)
