@@ -18,4 +18,4 @@ here are some images below;
 * List of customer with average orders between $1,000 to $1,200
 ![Screenshot (58)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a7135b23-63f9-4732-ab64-e5f499c16eaf)
 
-![Screenshot (32)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a0f0eb30-197c-42ab-bd86-05e0f3b9d1c7)
+![Screenshot (31)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a0f0eb30-197c-42ab-bd86-05e0f3b9d1c7)
