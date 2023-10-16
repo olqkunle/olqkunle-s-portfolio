@@ -19,5 +19,5 @@ here are some images below;
 ![Screenshot (58)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a7135b23-63f9-4732-ab64-e5f499c16eaf)
 
 ## Visualization using tableau
+![Screenshot (31)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/0d3ed06a-173a-4cd8-b998-4d55ecc0b615)
 
-![Screenshot (31)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a0f0eb30-197c-42ab-bd86-05e0f3b9d1c7)
