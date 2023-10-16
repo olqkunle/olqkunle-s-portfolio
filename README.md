@@ -1,4 +1,4 @@
-# olqkunle-portfolio
+![image](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/509bd0db-2344-4361-811b-a4c3a58faf6c)![image](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/03167e1b-489c-47b6-a467-0e64afe7508f)# olqkunle-portfolio
 # Project 1: Sales Analytics project using SQL and using TABLEAU for visualization
 
 This is the project i did for my data analytics course defense 
@@ -21,3 +21,8 @@ here are some images below;
 ## Visualization using tableau
 ![Screenshot (31)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/0d3ed06a-173a-4cd8-b998-4d55ecc0b615)
 
+## Insights and recommendations
+* The Company's top selling package is the 24- 12oz bottle with sales of over $219k. This shows that 60% of the customer base prefer this product package over others i  recommend that The Company can carry out further customer survey on problems with the other product packages particularly 10 pkgs (least selling product package) in order to correct these issues. 
+* The month of June recorded the lowest order quantity with 1,635.Also, there is a sharp decline of sales from $412,931 to $104,03k. The reasons for the decline in sales quantity sold and orders should be investigated and corrected. In addition, the company can provide time sensitive and opt in special offers to boost sales during this period.
+* Jose Pavarotti is the company’s top customer so in order to solve this issue Jose Pavarotti should be rewarded  with discounts, freebies, upgrades, vouchers, or exclusive access to new products or services . This will further encourage other customers to do much more.
+* Plutzer Lebensmittlgro is the company’s top supplier with over $401k in total sales should be rewarded. To further encourage our suppliers as well as boost sales, the company should create an incentive and referral bonus campaign to reward suppliers for achieving sales target as well as referring the company's products to prospective suppliers. 
