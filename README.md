@@ -1,4 +1,4 @@
-![image](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/509bd0db-2344-4361-811b-a4c3a58faf6c)![image](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/03167e1b-489c-47b6-a467-0e64afe7508f)# olqkunle-portfolio
+
 # Project 1: Sales Analytics project using SQL and using TABLEAU for visualization
 
 This is the project i did for my data analytics course defense 
