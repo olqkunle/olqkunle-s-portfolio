@@ -20,7 +20,7 @@ here are some images below;
 ## Visualization using tableau
 * First dashboard
 ![Screenshot (31)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/0d3ed06a-173a-4cd8-b998-4d55ecc0b615)
-*Second dashboard
+* Second dashboard
 ![Picture1](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/297e0e93-c8dc-41ba-bbea-ac5d8667276e)
 
 
