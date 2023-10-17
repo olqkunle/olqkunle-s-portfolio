@@ -18,7 +18,11 @@ here are some images below;
 ![Screenshot (58)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a7135b23-63f9-4732-ab64-e5f499c16eaf)
 
 ## Visualization using tableau
+* First dashboard
 ![Screenshot (31)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/0d3ed06a-173a-4cd8-b998-4d55ecc0b615)
+*Second dashboard
+![Picture1](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/297e0e93-c8dc-41ba-bbea-ac5d8667276e)
+
 
 ## Insights and recommendations
 * The Company's top selling package is the 24- 12oz bottle with sales of over $219k. This shows that 60% of the customer base prefer this product package over others i  recommend that The Company can carry out further customer survey on problems with the other product packages particularly 10 pkgs (least selling product package) in order to correct these issues. 
