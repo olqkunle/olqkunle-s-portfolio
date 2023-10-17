@@ -18,7 +18,8 @@ here are some images below;
 ![Screenshot (58)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/a7135b23-63f9-4732-ab64-e5f499c16eaf)
 * List of orders and total amount sold between jan 1, 2023 and dec 31, 2023 
 ![Screenshot (59)](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/d0e9be42-21f2-45e4-adf4-155c6593a163)
-*
+* List of orders with product name, quantity and price
+![Picture2](https://github.com/olqkunle/olqkunle-s-portfolio/assets/84230867/5ad4baf6-4c7d-4432-bd6a-6353365278c0)
 
 ## Visualization using tableau
 * First dashboard
